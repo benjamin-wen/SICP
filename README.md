@@ -5,21 +5,13 @@ notes from SICP
 
 ## Run
 
-Install Mit Scheme first with:
+**DrRacket** makes it easy to play with the example code or do exercise.
 
-`brew install mit-scheme`
-
-Invoke REPL by typing in:
-
-`scheme`
-
-Or run source file:
-
-`scheme < filename.sch`
+You can download it [here](https://download.racket-lang.org).
 
 
-## DrRacket
+## Exercise
 
-DrRacket is better way to try example code or do exercise.
+Detailed references:
 
-[Download](https://download.racket-lang.org)
+http://community.schemewiki.org/?sicp-solutions
